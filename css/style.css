@@ -1,5 +1,5 @@
 @charset "UTF-8";
 
-img {
+img.rounded-corners {
     border-radius: 50%;
 }
